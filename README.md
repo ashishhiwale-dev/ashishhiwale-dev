@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @ashishhiwale-dev
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning to be sarcastic
-- 💞️ I’m looking to collaborate in hell
-- 📫 How to reach me ... by accepting pain
-- ⚡ Fun fact: ... Karma is a Bitch.
+- 👋 Hi, I’m Ashish Hiwale
+- 👀 I’m interested in dev
+- 🌱 I’m currently learning to be sarcastic dev
+- 💞️ I’m looking to collaborate in hell with dev
+- 📫 How to reach me ... by accepting pain of dev
 
-<!---
-ashishhiwale-dev/ashishhiwale-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
